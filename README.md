@@ -4,8 +4,7 @@
 
 Languges currently studying
  
-  C and C++
-  Python
+  C, C++ and Python
 
 a little bit of Java as well for front end
 
