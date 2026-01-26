@@ -1,9 +1,5 @@
-* Welcome to my nest *
+Welcome Birds
 
-** I am a person studying Computer science with the goal to work in the AeroSpace industry **
+I code for fun and why not
+I am learning code specifcly in C and C++ with python there and there
 
-Languges currently studying
- 
-  C, C++ and Python
-
-a little bit of JavaScript as well for front end
